@@ -3,6 +3,8 @@ by Stephanie Parker
 
 Final project for Spring 2023 DXARTS472
 
+A video of the project can be seen here: https://youtu.be/4QTbwQHXglo
+
 Description of animatronic sculpture: A shiny white plastic box hangs on the wall. The surface facing the audience has patches of small hairs sticking out of it. Audio plays of a person inhaling and gently blowing. This is to suggest someone gently blowing on skin. The hairs on the surface raise up in goosebumps across the face of the box, before disappearing while the hair on the surface moves slightly. This repeats on loop.
 
 Skin is an intimately human organ, an entire sense with which to percieve the world, and also a barrier that seperates the intside from the outside. The project's concept is blurring the lines between the organic and inorganic. This idea envisions a future where humans can merge with machines, augmenting their biological limitations and achieving unprecedented levels of physical and cognitive abilities. Usually when this idea is examined, it focuses on the human aspects and consequences. I wanted to explore what transhumanism might mean for the machine. 
