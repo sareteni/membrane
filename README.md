@@ -1,5 +1,6 @@
 # Membrane
 by Stephanie Parker
+
 Final project for Spring 2023 DXARTS472
 
 Description of animatronic sculpture: A shiny white plastic box hangs on the wall. The surface facing the audience has patches of small hairs sticking out of it. Audio plays of a person inhaling and gently blowing. This is to suggest someone gently blowing on skin. The hairs on the surface raise up in goosebumps across the face of the box, before disappearing while the hair on the surface moves slightly. This repeats on loop.
